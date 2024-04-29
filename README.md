@@ -17,7 +17,7 @@ Se puede añadir enlace a página personal de github o lo que se quiera...(optat
 Proyecto (código): 
 
 Tipo/Género:  
-- [] FictionCiberpunk  
+- [ ] FictionCiberpunk  
 - [X] Reality/tribus urbanas  
 - [ ] Comic
 
