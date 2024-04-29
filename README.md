@@ -17,8 +17,8 @@ Se puede añadir enlace a página personal de github o lo que se quiera...(optat
 Proyecto (código): 
 
 Tipo/Género:  
-- [x] FictionCiberpunk  
-- [ ] Reality/tribus urbanas  
+- [] FictionCiberpunk  
+- [X] Reality/tribus urbanas  
 - [ ] Comic
 
 
@@ -51,8 +51,10 @@ A pesar de su talento y la determinación, enfrenta un obstáculo que desea, el 
 
 (https://arturoelrugido.h5p.com/content/1292217260405166757)
 
-- Banner/Teaser:  (enlace) 
+- Banner/Teaser:  (enlace) (Pendiente de ampliación)
 
+ProtoPie Cloud - https://cloud.protopie.io/p/c7dce86c675cdb86cf94d5d9
+Arcweave - https://arcweave.com/app/project/vVlj9aM0gq/play 
 
 - Storytelling: (enlace) 
 
