@@ -51,19 +51,21 @@ A pesar de su talento y la determinación, enfrenta un obstáculo que desea, el 
 
 (https://arturoelrugido.h5p.com/content/1292217260405166757)
 
-- Banner/Teaser:  (enlace) (Pendiente de ampliación)
+- Banner/Teaser:  (enlace) 
 
 ProtoPie Cloud - https://cloud.protopie.io/p/c7dce86c675cdb86cf94d5d9
 Arcweave - https://arcweave.com/app/project/vVlj9aM0gq/play 
 
-- Storytelling: (enlace) 
+- Storytelling: (enlace):
+- https://drive.google.com/drive/folders/13GDwdPXzmBtQQEFZ0SOXqWUcDYDrH_ux?usp=sharing
+  
 
 
 
 
 ### Conclusiones/Valoración del equipo
 
-A valorar posteriormente.
+Ha sido un trabajo completo donde hemos desarrollado la historia de Arturo el rugido, la idea ha sido sencilla siempre porque nuestros conocimientos y tiempo disponible para aprender nuevas cosas ha sido muy limitado por lo que a pesar de haber logrado tener grandes ideas, creemos que podríamos haber hecho un trabajo mucho más interesante. Pero igualmente lo es, estamos muy contentos de que podáis vivir la vida de Arturo.
 
 ------
 ![](https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/CC-BY-SA-Andere_Wikis_%28v%29.svg/200px-CC-BY-SA-Andere_Wikis_%28v%29.svg.png)
